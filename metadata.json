@@ -1,0 +1,6 @@
+{
+  "name": "Search AI",
+  "description": "An improved Google Search interface with Gemini AI overviews, Google Search grounding, deep thinking mode, and an AI chat assistant in light and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
